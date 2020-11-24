@@ -12,4 +12,12 @@ In this section you can see a variety of examples:
 
 | ![example1](https://user-images.githubusercontent.com/34712449/100118420-81995a00-2e7e-11eb-8083-32a308f67433.png)| 
 |:--:| 
-| *Example no.1* |
+| *Example: Circle* |
+
+| ![example2](https://user-images.githubusercontent.com/34712449/100118427-82ca8700-2e7e-11eb-9e49-c58d78238229.png)| 
+|:--:| 
+| *Example: Circle* |
+
+|![example3](https://user-images.githubusercontent.com/34712449/100118431-83631d80-2e7e-11eb-9650-d5f9edd8d67a.png)|
+|:--:| 
+| *Example: Circle* |
