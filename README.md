@@ -16,4 +16,4 @@ In this section you can see a variety of examples:
 |:--:| 
 | *Example : Sphere* |
 
-_You can find the Application's APK here: [a link] (https://github.com/dimitrismatsanganis/Android_Geometry_Calculations/blob/main/Geometry_Calculations.apk)_
+_You can find the Application's APK here: (https://github.com/dimitrismatsanganis/Android_Geometry_Calculations/blob/main/Geometry_Calculations.apk)_
