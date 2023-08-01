@@ -17,3 +17,10 @@ In this section you can see a variety of examples:
 | *Example : Sphere* |
 
 _You can find the Application's APK here: (https://github.com/dimitrismatsanganis/Android_Geometry_Calculations/blob/main/Geometry_Calculations.apk)_
+
+## Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/android-%3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
